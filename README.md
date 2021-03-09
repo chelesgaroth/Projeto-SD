@@ -13,3 +13,8 @@ descarregar o mapa com informações de infetados e de visitantes dos vários lo
 Para realizar este trabalho, foi necessário aplicar diversos conceitos aprendidos nas aulas,
 nomeadamente o controlo de concorrência (primitivas lock/unlock), variáveis de condição, e a
 arquitetura cliente-servidor.
+
+## Authors
+* Ana Filipa Pereira
+* [Carolina Santejo](https://github.com/CarolinaSantejo)
+* [Raquel Costa](https://github.com/chelesgaroth)
