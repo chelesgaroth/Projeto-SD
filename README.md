@@ -14,6 +14,8 @@ Para realizar este trabalho, foi necessário aplicar diversos conceitos aprendid
 nomeadamente o controlo de concorrência (primitivas lock/unlock), variáveis de condição, e a
 arquitetura cliente-servidor.
 
+Nota Final: 18
+
 ## Authors
 * Ana Filipa Pereira
 * [Carolina Santejo](https://github.com/CarolinaSantejo)
